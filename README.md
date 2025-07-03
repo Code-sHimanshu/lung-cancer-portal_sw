@@ -46,18 +46,30 @@ Edit
 lung-cancer-portal/
 │
 ├── assets/
+
 │   ├── images/
+
 │   ├── videos/
+
 │   └── css/
+
 │
 ├── index.html
+
 ├── faq.html
+
 ├── about.html
+
 ├── board.html
+
 ├── profile.html
+
 ├── events.html
+
 ├── disclaimer.html
+
 ├── gallery.html
+
 ├── README.md
 └── ...
 
